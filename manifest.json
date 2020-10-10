@@ -1,0 +1,6 @@
+{
+  "name": "Facebook Birthday Bot",
+  "version": "1.0",
+  "description": "Automatically wishes your Facebook friends happy birthday",
+  "manifest_version": 2
+}
